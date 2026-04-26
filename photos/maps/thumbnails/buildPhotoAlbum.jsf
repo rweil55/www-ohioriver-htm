@@ -1,0 +1,356 @@
+App.progressCountTotal = 44;
+App.progressCountCurrent = 0;
+fw.dismissBatchDialogWhenDone = true;
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Allegheny Sports Complex Proposed Site.jpg');
+App.progressCountCurrent = 1;
+App.batchStatusString = 'Allegheny Sports Complex Proposed Site.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Allegheny Sports Complex Proposed Site_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Allegheny Sports Complex Proposed Site_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Allegheny Sports Complex Proposed Site_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Allegheny Sports Complex Proposed Site_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Allegheny Sports Complex Proposed Site_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Allegheny Sports Complex Proposed Site_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Bald Eagle near South Shore Trail in Moon Township, Pa.jpg');
+App.progressCountCurrent = 2;
+App.batchStatusString = 'Bald Eagle near South Shore Trail in Moon Township, Pa.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bald Eagle near South Shore Trail in Moon Township, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bald Eagle near South Shore Trail in Moon Township, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bald Eagle near South Shore Trail in Moon Township, Pa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bald Eagle near South Shore Trail in Moon Township, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bald Eagle near South Shore Trail in Moon Township, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bald Eagle near South Shore Trail in Moon Township, Pa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Beginning Point of the U.S. Public Land Survey.jpg');
+App.progressCountCurrent = 3;
+App.batchStatusString = 'Beginning Point of the U.S. Public Land Survey.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Beginning Point of the U_S_ Public Land Survey_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Beginning Point of the U_S_ Public Land Survey_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Beginning Point of the U_S_ Public Land Survey_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Beginning Point of the U_S_ Public Land Survey_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Beginning Point of the U_S_ Public Land Survey_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Beginning Point of the U_S_ Public Land Survey_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/bevr04ne.jpg');
+App.progressCountCurrent = 4;
+App.batchStatusString = 'bevr04ne.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04ne_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04ne_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04ne_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04ne_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04ne_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04ne_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/bevr04nw.jpg');
+App.progressCountCurrent = 5;
+App.batchStatusString = 'bevr04nw.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04nw_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04nw_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04nw_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04nw_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04nw_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04nw_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/bevr04se.jpg');
+App.progressCountCurrent = 6;
+App.batchStatusString = 'bevr04se.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04se_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04se_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04se_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04se_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04se_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04se_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/bevr04sw.jpg');
+App.progressCountCurrent = 7;
+App.batchStatusString = 'bevr04sw.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04sw_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04sw_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/bevr04sw_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04sw_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04sw_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/bevr04sw_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Bike PA 07.jpg');
+App.progressCountCurrent = 8;
+App.batchStatusString = 'Bike PA 07.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 07_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 07_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 07_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 07_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 07_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 07_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Bike PA 08.jpg');
+App.progressCountCurrent = 9;
+App.batchStatusString = 'Bike PA 08.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 08_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 08_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 08_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 08_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 08_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 08_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Bike PA 09.jpg');
+App.progressCountCurrent = 10;
+App.batchStatusString = 'Bike PA 09.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 09_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 09_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 09_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 09_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 09_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 09_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Bike PA 10.jpg');
+App.progressCountCurrent = 11;
+App.batchStatusString = 'Bike PA 10.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 10_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 10_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bike PA 10_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 10_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 10_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bike PA 10_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge.jpg');
+App.progressCountCurrent = 12;
+App.batchStatusString = 'Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Bridgewater - Rochester Bridge to  Rochester - Monaca Bridge_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/C & O Trail Map-1.jpg');
+App.progressCountCurrent = 13;
+App.batchStatusString = 'C & O Trail Map-1.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/C & O Trail Map-1_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/C & O Trail Map-1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/C & O Trail Map-1_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/C & O Trail Map-1_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/C & O Trail Map-1_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/C & O Trail Map-1_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Confluence of the Beaver and Ohio River - Google Earth.jpg');
+App.progressCountCurrent = 14;
+App.batchStatusString = 'Confluence of the Beaver and Ohio River - Google Earth.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Confluence of the Beaver and Ohio River - Google Earth_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Confluence of the Beaver and Ohio River - Google Earth_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Confluence of the Beaver and Ohio River - Google Earth_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Confluence of the Beaver and Ohio River - Google Earth_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Confluence of the Beaver and Ohio River - Google Earth_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Confluence of the Beaver and Ohio River - Google Earth_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Coraopolis (topographic) original scale 1 to 24,000 U.S.G.S. 1960, photorevised 1990 (544K).jpg');
+App.progressCountCurrent = 15;
+App.batchStatusString = 'Coraopolis (topographic) original scale 1 to 24,000 U.S.G.S. 1960, photorevised 1990 (544K).jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Coraopolis (topographic) original scale 1 to 24,000 U_S_G_S_ 1960, photorevised 1990 (544K)_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Coraopolis (topographic) original scale 1 to 24,000 U_S_G_S_ 1960, photorevised 1990 (544K)_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Coraopolis (topographic) original scale 1 to 24,000 U_S_G_S_ 1960, photorevised 1990 (544K)_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Coraopolis (topographic) original scale 1 to 24,000 U_S_G_S_ 1960, photorevised 1990 (544K)_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Coraopolis (topographic) original scale 1 to 24,000 U_S_G_S_ 1960, photorevised 1990 (544K)_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Coraopolis (topographic) original scale 1 to 24,000 U_S_G_S_ 1960, photorevised 1990 (544K)_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Great Ohio Lake to River Greenway.jpg');
+App.progressCountCurrent = 16;
+App.batchStatusString = 'Great Ohio Lake to River Greenway.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Great Ohio Lake to River Greenway_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Great Ohio Lake to River Greenway_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Great Ohio Lake to River Greenway_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Great Ohio Lake to River Greenway_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Great Ohio Lake to River Greenway_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Great Ohio Lake to River Greenway_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Industry Trolley ROW.jpg');
+App.progressCountCurrent = 17;
+App.batchStatusString = 'Industry Trolley ROW.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Industry Trolley ROW_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Industry Trolley ROW_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Industry Trolley ROW_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Industry Trolley ROW_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Industry Trolley ROW_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Industry Trolley ROW_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Little Beaver Creek Greenway Trail.jpg');
+App.progressCountCurrent = 18;
+App.batchStatusString = 'Little Beaver Creek Greenway Trail.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Little Beaver Creek Greenway Trail_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Little Beaver Creek Greenway Trail_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Little Beaver Creek Greenway Trail_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Little Beaver Creek Greenway Trail_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Little Beaver Creek Greenway Trail_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Little Beaver Creek Greenway Trail_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Montgomery Dam & Historical Montgomery Island.jpg');
+App.progressCountCurrent = 19;
+App.batchStatusString = 'Montgomery Dam & Historical Montgomery Island.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Montgomery Dam & Historical Montgomery Island_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Montgomery Dam & Historical Montgomery Island_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Montgomery Dam & Historical Montgomery Island_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Montgomery Dam & Historical Montgomery Island_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Montgomery Dam & Historical Montgomery Island_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Montgomery Dam & Historical Montgomery Island_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Montour Trail Mile Marker Zero.jpg');
+App.progressCountCurrent = 20;
+App.batchStatusString = 'Montour Trail Mile Marker Zero.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Montour Trail Mile Marker Zero_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Montour Trail Mile Marker Zero_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Montour Trail Mile Marker Zero_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Montour Trail Mile Marker Zero_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Montour Trail Mile Marker Zero_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Montour Trail Mile Marker Zero_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio - Pa State Line - Point of Beginning.jpg');
+App.progressCountCurrent = 21;
+App.batchStatusString = 'Ohio - Pa State Line - Point of Beginning.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio - Pa State Line - Point of Beginning_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio - Pa State Line - Point of Beginning_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio - Pa State Line - Point of Beginning_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio - Pa State Line - Point of Beginning_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio - Pa State Line - Point of Beginning_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio - Pa State Line - Point of Beginning_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/ohio canal map.jpg');
+App.progressCountCurrent = 22;
+App.batchStatusString = 'ohio canal map.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ohio canal map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ohio canal map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ohio canal map_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ohio canal map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ohio canal map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ohio canal map_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio Greenways.jpg');
+App.progressCountCurrent = 23;
+App.batchStatusString = 'Ohio Greenways.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio Greenways_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio Greenways_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio Greenways_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio Greenways_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio Greenways_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio Greenways_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/ohio river islands refuge map.jpg');
+App.progressCountCurrent = 24;
+App.batchStatusString = 'ohio river islands refuge map.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ohio river islands refuge map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ohio river islands refuge map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ohio river islands refuge map_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ohio river islands refuge map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ohio river islands refuge map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ohio river islands refuge map_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio River Trail - Crescent Township, Pa. Shouse Park.jpg');
+App.progressCountCurrent = 25;
+App.batchStatusString = 'Ohio River Trail - Crescent Township, Pa. Shouse Park.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Crescent Township, Pa_ Shouse Park_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Crescent Township, Pa_ Shouse Park_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Crescent Township, Pa_ Shouse Park_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Crescent Township, Pa_ Shouse Park_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Crescent Township, Pa_ Shouse Park_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Crescent Township, Pa_ Shouse Park_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio River Trail - Google Earth.jpg');
+App.progressCountCurrent = 26;
+App.batchStatusString = 'Ohio River Trail - Google Earth.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Google Earth_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Google Earth_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Google Earth_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Google Earth_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Google Earth_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Google Earth_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio River Trail - Montour Junction, Pa.jpg');
+App.progressCountCurrent = 27;
+App.batchStatusString = 'Ohio River Trail - Montour Junction, Pa.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Montour Junction, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Montour Junction, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Montour Junction, Pa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Montour Junction, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Montour Junction, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Montour Junction, Pa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio River Trail - Parking Facilities Monaca, Pa.jpg');
+App.progressCountCurrent = 28;
+App.batchStatusString = 'Ohio River Trail - Parking Facilities Monaca, Pa.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Parking Facilities Monaca, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Parking Facilities Monaca, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - Parking Facilities Monaca, Pa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Parking Facilities Monaca, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Parking Facilities Monaca, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - Parking Facilities Monaca, Pa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio River Trail - West Aliquippa Parking Facilities.jpg');
+App.progressCountCurrent = 29;
+App.batchStatusString = 'Ohio River Trail - West Aliquippa Parking Facilities.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - West Aliquippa Parking Facilities_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - West Aliquippa Parking Facilities_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio River Trail - West Aliquippa Parking Facilities_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - West Aliquippa Parking Facilities_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - West Aliquippa Parking Facilities_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio River Trail - West Aliquippa Parking Facilities_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Ohio to Erie Trail.jpg');
+App.progressCountCurrent = 30;
+App.batchStatusString = 'Ohio to Erie Trail.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio to Erie Trail_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio to Erie Trail_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Ohio to Erie Trail_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio to Erie Trail_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio to Erie Trail_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Ohio to Erie Trail_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/ORT North Shore Trail - Little Beaver Creek.jpg');
+App.progressCountCurrent = 31;
+App.batchStatusString = 'ORT North Shore Trail - Little Beaver Creek.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT North Shore Trail - Little Beaver Creek_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT North Shore Trail - Little Beaver Creek_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT North Shore Trail - Little Beaver Creek_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT North Shore Trail - Little Beaver Creek_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT North Shore Trail - Little Beaver Creek_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT North Shore Trail - Little Beaver Creek_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/ORT SOUTH SHORE PROPOSED MAP BMP.jpg');
+App.progressCountCurrent = 32;
+App.batchStatusString = 'ORT SOUTH SHORE PROPOSED MAP BMP.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT SOUTH SHORE PROPOSED MAP BMP_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT SOUTH SHORE PROPOSED MAP BMP_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT SOUTH SHORE PROPOSED MAP BMP_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT SOUTH SHORE PROPOSED MAP BMP_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT SOUTH SHORE PROPOSED MAP BMP_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT SOUTH SHORE PROPOSED MAP BMP_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/ORT _ MONTOUR TRAIL MILE 0 PROPOSED.jpg');
+App.progressCountCurrent = 33;
+App.batchStatusString = 'ORT _ MONTOUR TRAIL MILE 0 PROPOSED.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT _ MONTOUR TRAIL MILE 0 PROPOSED_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT _ MONTOUR TRAIL MILE 0 PROPOSED_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/ORT _ MONTOUR TRAIL MILE 0 PROPOSED_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT _ MONTOUR TRAIL MILE 0 PROPOSED_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT _ MONTOUR TRAIL MILE 0 PROPOSED_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/ORT _ MONTOUR TRAIL MILE 0 PROPOSED_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Park & Ride  - Coraopolis, Pa.jpg');
+App.progressCountCurrent = 34;
+App.batchStatusString = 'Park & Ride  - Coraopolis, Pa.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Park & Ride  - Coraopolis, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Park & Ride  - Coraopolis, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Park & Ride  - Coraopolis, Pa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Park & Ride  - Coraopolis, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Park & Ride  - Coraopolis, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Park & Ride  - Coraopolis, Pa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Pennsylvania Canals.jpg');
+App.progressCountCurrent = 35;
+App.batchStatusString = 'Pennsylvania Canals.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Pennsylvania Canals_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Pennsylvania Canals_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Pennsylvania Canals_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Pennsylvania Canals_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Pennsylvania Canals_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Pennsylvania Canals_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Phillis and Georgetown Island Google Earth Photo.jpg');
+App.progressCountCurrent = 36;
+App.batchStatusString = 'Phillis and Georgetown Island Google Earth Photo.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Phillis and Georgetown Island Google Earth Photo_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Phillis and Georgetown Island Google Earth Photo_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Phillis and Georgetown Island Google Earth Photo_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Phillis and Georgetown Island Google Earth Photo_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Phillis and Georgetown Island Google Earth Photo_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Phillis and Georgetown Island Google Earth Photo_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/RIVER TO LAKE GREENWAY 08.jpg');
+App.progressCountCurrent = 37;
+App.batchStatusString = 'RIVER TO LAKE GREENWAY 08.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/RIVER TO LAKE GREENWAY 08_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/RIVER TO LAKE GREENWAY 08_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/RIVER TO LAKE GREENWAY 08_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/RIVER TO LAKE GREENWAY 08_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/RIVER TO LAKE GREENWAY 08_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/RIVER TO LAKE GREENWAY 08_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Sebring Rd. & Rt. 68 Trailhead - Industry, Pa.jpg');
+App.progressCountCurrent = 38;
+App.batchStatusString = 'Sebring Rd. & Rt. 68 Trailhead - Industry, Pa.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Sebring Rd_ & Rt_ 68 Trailhead - Industry, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Sebring Rd_ & Rt_ 68 Trailhead - Industry, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Sebring Rd_ & Rt_ 68 Trailhead - Industry, Pa_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Sebring Rd_ & Rt_ 68 Trailhead - Industry, Pa_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Sebring Rd_ & Rt_ 68 Trailhead - Industry, Pa_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Sebring Rd_ & Rt_ 68 Trailhead - Industry, Pa_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Stavich Bike Trail Map.jpg');
+App.progressCountCurrent = 39;
+App.batchStatusString = 'Stavich Bike Trail Map.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Stavich Bike Trail Map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Stavich Bike Trail Map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Stavich Bike Trail Map_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Stavich Bike Trail Map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Stavich Bike Trail Map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Stavich Bike Trail Map_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/swck08se.jpg');
+App.progressCountCurrent = 40;
+App.batchStatusString = 'swck08se.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/swck08se_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/swck08se_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/swck08se_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/swck08se_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/swck08se_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/swck08se_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/swck08sw.jpg');
+App.progressCountCurrent = 41;
+App.batchStatusString = 'swck08sw.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/swck08sw_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/swck08sw_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/swck08sw_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/swck08sw_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/swck08sw_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/swck08sw_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Three Rivers Heritage Trail Map - Great Allegheny Passage.jpg');
+App.progressCountCurrent = 42;
+App.batchStatusString = 'Three Rivers Heritage Trail Map - Great Allegheny Passage.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Three Rivers Heritage Trail Map - Great Allegheny Passage_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Three Rivers Heritage Trail Map - Great Allegheny Passage_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Three Rivers Heritage Trail Map - Great Allegheny Passage_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Three Rivers Heritage Trail Map - Great Allegheny Passage_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Three Rivers Heritage Trail Map - Great Allegheny Passage_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Three Rivers Heritage Trail Map - Great Allegheny Passage_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Three Rivers Heritage Trail Map.jpg');
+App.progressCountCurrent = 43;
+App.batchStatusString = 'Three Rivers Heritage Trail Map.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Three Rivers Heritage Trail Map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Three Rivers Heritage Trail Map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Three Rivers Heritage Trail Map_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Three Rivers Heritage Trail Map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Three Rivers Heritage Trail Map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Three Rivers Heritage Trail Map_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+doc = fw.openDocument('file:///C|/temp/OHIO-RIVER-TRAIL/Trail Town Map.jpg');
+App.progressCountCurrent = 44;
+App.batchStatusString = 'Trail Town Map.jpg';
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Trail Town Map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Trail Town Map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/images/Trail Town Map_jpg.jpg',({applyScale:false, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:"100", useScale:true, xSize:0, ySize:0}));
+if (!Files.exists('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Trail Town Map_jpg.jpg') || confirm('file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Trail Town Map_jpg.jpg already exists. Click OK to replace the file.')) 
+fw.exportDocumentAs(doc, 'file:///C|/Inetpub/wwwroot/ortc/photos/maps/thumbnails/Trail Town Map_jpg.jpg',({applyScale:true, colorMode:"24 bit", exportFormat:"JPEG", jpegQuality:80, jpegSmoothness:0, jpegSubsampling:0, name:"JPEG - Better Quality", numEntriesRequested:0, percentScale:100, useScale:false, xSize:-200, ySize:-200}));
+fw.closeDocument(doc);
+'done';
